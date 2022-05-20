@@ -1,7 +1,7 @@
 # PortfolioZ
 https://rsaldaen.github.io/PortfolioZ/
 
-## Updatedd
+## Updated
 Switched layout of portfolio and added links to GitHub, Email, LinkedIn and a Resume.
 
 Updated portfolio
